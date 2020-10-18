@@ -1,0 +1,192 @@
+.body{
+	margin: auto;
+	width: 85%;
+	height: 2850px;
+}
+.fisrt {
+	width: 100%;
+	height: 500px;
+}
+h5{
+	text-align: center;
+}
+.first .col{
+	height: 100%;
+}
+.hinh{
+	width: 100%;
+	height: 55%;
+}
+.noidung{
+	width: 100%;
+	height: 45%;
+	z-index: 11;
+}
+.hinh img{
+	width: 100%;
+	height: 100%;
+}
+.fisrt .giamgia{
+	width: 50px;
+	height: 20px;
+	background: orange;
+	border-radius: 10px 0 10px 0;
+}
+.col a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	background- color  : #2A9400;
+}
+.noidung span{
+	color: red;
+	text-align: center;
+}
+.col a:hover{
+	background- color  : #2A9400;
+	color:  #2A9400;
+
+}
+.second {
+	width: 100%;
+	height: 500px;
+}
+.second .giamgia{
+	width: 50px;
+	height: 20px;
+	background: orange;
+	border-radius: 10px 0 10px 0;
+}
+.second .col{
+	height: 100%;
+}
+.third {
+	width: 100%;
+	height: 550px;
+}
+.third .giamgia{
+	width: 50px;
+	height: 20px;
+	background: orange;
+	border-radius: 10px 0 10px 0;
+}
+.third .col{
+	height: 100%;
+}
+.fourth {
+	width: 100%;
+	height: 550px;
+}
+.fourth .giamgia{
+	width: 50px;
+	height: 20px;
+	background: orange;
+	border-radius: 10px 0 10px 0;
+}
+.fourth .col{
+	height: 100%;
+}
+.quangcao{
+	width: 100%;
+	height: 100%;
+}
+.quangcao img{
+	width: 100%;
+	height: 500px;
+}
+h5{
+	color: #2A9400;
+}
+.feedback{
+	height: 200px;
+}
+.feedback .col{
+	height: 100%;
+}
+.col .anh{
+	float: left;
+	width: 70px;
+	height: 100px;
+}
+.anh img{
+	width: 70px;
+	height: 50px;
+}
+.service{
+	height: 100px;
+	background:#2A9400; 
+	width: 100%;
+}
+.service h4 {
+	color: white;
+	margin-left: 100px;
+	padding-top: 20px;
+}
+.service p {
+	color: white;
+	margin-left: 100px;
+}
+.service button{
+	float: right;
+	border-radius: 20px;
+	width: 150px;
+	height: 40px;
+	background: orange;
+	color: 	 white;
+	border: none;
+}
+
+.trai{
+	float: left;
+}
+.phai{
+	float: right;
+	padding: 40px;
+}
+.vanchuyen {
+	width: 85%;
+	height: 100px;
+	margin: auto;
+}
+.vanchuyen p{
+	float: left;
+	margin-right: 50px;
+}
+.vanchuyen i{
+	font-size: 25px;
+	background: white;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	border: 1px solid gray;
+	color: #2A9400; 
+
+}
+.last {
+	background: #242424;
+	height: 400px;
+}
+.last ul{
+	list-style-type: none;
+	float: left;
+}
+.last li{
+	color: white;
+	margin-top: 20px;
+}
+.last a{
+	text-decoration: none;
+	color: #2A9400;
+}
+.last img{
+	height: 200px;
+	width: 300px;
+	margin: 0 0 0 100px;
+	float: right;
+}
+.last h4{
+	color: white;
+	padding-top: 80px;
+	margin-left: 100px;
+	float: right;
+}

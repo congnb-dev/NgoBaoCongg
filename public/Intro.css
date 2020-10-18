@@ -1,0 +1,60 @@
+.main .intro{
+	width: 85%;
+	height: 360px;
+	margin: 0 auto;
+}
+.intro #listpro{
+	width: 23%;
+	height: 100%;
+	float: left;
+}
+
+#listpro ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#listpro .leader {
+	background: #2A9400;
+	font-size: 20px;
+	height: 40px;
+	padding: 3px 0 0 10px;
+	border: none;
+}
+#listpro li{
+	height: 40px;
+	border: 1px solid gray;
+	padding: 5px 0 0 10px;
+}
+#listpro a{
+	text-decoration: none;
+	color: black;
+}
+#listpro a:hover{
+	color: #50FF1E;
+}
+.intro .banner{
+	width: 75%;
+	height: 100%;
+	background: blue;
+	float: right;
+}
+.banner img {
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+.image{
+	height: 200px;
+	width: 85%;
+	margin: auto;
+	margin-top: 20px;
+}
+.image .col{
+	width: 30%;
+	height: 100%;
+}
+.image img{
+	width: 100%;
+	height: 100%;
+}

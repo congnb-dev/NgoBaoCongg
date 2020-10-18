@@ -1,0 +1,130 @@
+.main .header{
+	height: 190px;
+	width: 100%;
+}
+.header .top{
+	height: 25px;
+	width: 100%;
+	background: #212121;
+}
+.top i{
+	float: left;
+	margin-top: 5px;
+	color: white;
+	font-size: 12px;
+}
+.top p{
+	float: left;
+	margin: 5px 0 0 0;
+	font-family: arial;
+	font-size: 12px;
+	color: white;
+}
+.header .mid{
+	height: 120px;
+	width: 100%;
+	background: white;
+}
+.mid img{
+	height: 80px;
+	width: 300px;
+	float: left;
+	margin: 20px 0 0 100px;
+}
+.mid i{
+	margin-left: 20px;
+	text-align: center;
+	font-size: 32px;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: orange;
+	border-radius: 50%;
+	color: white;
+}
+.mid p{
+	font-size: 15px;
+	float: left;
+	margin: 30px 0  0 10px ;
+}
+
+.gio p{
+	font-size: 13px;
+	float: left;
+	color: white;
+	background: green;
+	border-radius: 10px;
+	text-align: center;	
+	padding: 10px;
+}
+.gio i{
+	background: no-repeat;
+	color: black;
+	font-size: 12px;
+	float: left;	
+}
+.header .bot{
+	height: 40px;
+	width: 100%;
+	background: #2A9400;
+
+}
+.bot .left{
+	width: 45%;
+	height: 100%;
+	background: red;
+	margin-left: 100px;
+	float: left;
+}
+.left ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2A9400;
+}
+.left li{
+	float: left;
+}
+.left li a{
+	color: white;
+	text-decoration: none;
+	padding:  8px;
+	text-align: center;
+	display: block; 	
+}
+.left li a:hover:not(.home) {
+  background-color: #8EFF00;
+  text-decoration: none;
+  color: white;
+}
+.home{
+	background-color: #8EFF00;
+	color: white; 
+	text-decoration: none;
+}
+.bot .right{
+	width: 30%;
+	height: 100%;
+	float: right;
+}
+.right select{
+	background: #FAFDFF;
+	border-radius: 10px;
+	width: 50px;
+	height: 25px;
+	margin-top: 5px;
+	opacity: 0.8;
+}
+.right input{
+	border-radius: 10px;
+	opacity: 0.8;
+}
+.right button{
+	margin-right: 40px;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+p{
+	font-family: arial;
+}
